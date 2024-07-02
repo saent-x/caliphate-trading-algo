@@ -7,5 +7,13 @@ Execute the algorithm by running the following command within the directory cont
 ```bash
   go run .
 ```
+<br>
+<br>
+<br>
+Also, make sure to update the .env file with the appropriate variables.
 
-Also, make sure to update the .env file with the appropriate variables
+<br>
+<br>
+<br>
+
+@ Vangerwua Johnpaul [2024]
