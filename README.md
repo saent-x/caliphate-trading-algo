@@ -1,4 +1,4 @@
-# Caliphate [not maintained]
+# Caliphate
 A trading algorithm employing **price action** and **technical analysis** implemented using golang to trade crypto and futures markets.
 
 ## To Run
